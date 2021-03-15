@@ -1,6 +1,6 @@
 # Weather App
 
-![GitHub Logo](./src/assets/WeatherAPP.gif)
+<img src="./src/assets/WeatherAPP.gif" width="200" height="350"/>
 
 ---
 
